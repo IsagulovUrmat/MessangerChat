@@ -1,0 +1,21 @@
+/* 
+  Localizable.strings
+  MessengerChat
+
+  Created by sunflow on 28/2/25.
+  
+*/
+
+"authTitleLabel" = "Авторизация";
+"passwordPlaceholder" = "Пароль";
+"authButtonText" = "Войти";
+
+"regButtonText" = "Регистрация";
+"regTitleLabel" = "Регистрация";
+
+"regNamePlaceholder" = "Имя";
+
+"tabUsers" = "Пользователи";
+"tabMessages" = "Сообщения";
+
+
